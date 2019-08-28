@@ -1,0 +1,3 @@
+/home/cheick/src/Accelerated-C-/chapter0/5/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/cheick/src/Accelerated-C-/chapter0/5/cmake-build-debug/CMakeFiles/5.dir
+/home/cheick/src/Accelerated-C-/chapter0/5/cmake-build-debug/CMakeFiles/edit_cache.dir
