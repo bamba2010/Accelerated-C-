@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/framing.dir/main.cpp.o  -o framing 
