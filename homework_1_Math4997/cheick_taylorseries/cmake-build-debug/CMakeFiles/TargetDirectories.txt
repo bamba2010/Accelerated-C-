@@ -1,0 +1,3 @@
+/home/cheick/src/homework_1_Math4997/cheick_taylorseries/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/cheick/src/homework_1_Math4997/cheick_taylorseries/cmake-build-debug/CMakeFiles/taylorseries.dir
+/home/cheick/src/homework_1_Math4997/cheick_taylorseries/cmake-build-debug/CMakeFiles/edit_cache.dir

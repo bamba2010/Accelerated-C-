@@ -123,6 +123,33 @@ untitled/fast:
 	$(MAKE) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/build
 .PHONY : untitled/fast
 
+Exercise1_what_does_the_following_statement_do.o: Exercise1_what_does_the_following_statement_do.cpp.o
+
+.PHONY : Exercise1_what_does_the_following_statement_do.o
+
+# target to build an object file
+Exercise1_what_does_the_following_statement_do.cpp.o:
+	$(MAKE) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/Exercise1_what_does_the_following_statement_do.cpp.o
+.PHONY : Exercise1_what_does_the_following_statement_do.cpp.o
+
+Exercise1_what_does_the_following_statement_do.i: Exercise1_what_does_the_following_statement_do.cpp.i
+
+.PHONY : Exercise1_what_does_the_following_statement_do.i
+
+# target to preprocess a source file
+Exercise1_what_does_the_following_statement_do.cpp.i:
+	$(MAKE) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/Exercise1_what_does_the_following_statement_do.cpp.i
+.PHONY : Exercise1_what_does_the_following_statement_do.cpp.i
+
+Exercise1_what_does_the_following_statement_do.s: Exercise1_what_does_the_following_statement_do.cpp.s
+
+.PHONY : Exercise1_what_does_the_following_statement_do.s
+
+# target to generate assembly for a file
+Exercise1_what_does_the_following_statement_do.cpp.s:
+	$(MAKE) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/Exercise1_what_does_the_following_statement_do.cpp.s
+.PHONY : Exercise1_what_does_the_following_statement_do.cpp.s
+
 main.o: main.cpp.o
 
 .PHONY : main.o
@@ -159,6 +186,9 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... untitled"
 	@echo "... edit_cache"
+	@echo "... Exercise1_what_does_the_following_statement_do.o"
+	@echo "... Exercise1_what_does_the_following_statement_do.i"
+	@echo "... Exercise1_what_does_the_following_statement_do.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"

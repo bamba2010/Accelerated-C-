@@ -4,6 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
+  "/home/cheick/src/Accelerated-C-/chapter0/Exercises/Exercise0/Exercise1_what_does_the_following_statement_do.cpp" "/home/cheick/src/Accelerated-C-/chapter0/Exercises/Exercise0/cmake-build-debug/CMakeFiles/untitled.dir/Exercise1_what_does_the_following_statement_do.cpp.o"
   "/home/cheick/src/Accelerated-C-/chapter0/Exercises/Exercise0/main.cpp" "/home/cheick/src/Accelerated-C-/chapter0/Exercises/Exercise0/cmake-build-debug/CMakeFiles/untitled.dir/main.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")

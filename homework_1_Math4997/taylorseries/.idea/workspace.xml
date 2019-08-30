@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated />
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="776ea85c-5dd5-43ff-9654-a4a12b509dcc" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../Accelerated-C-/chapter1/Exercises/.idea/Exercises.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Accelerated-C-/home/cheick/src/Accelerated-C-/home/cheick/src/Accelerated-C-/home/cheick/src/Accelerated-C-/chapter1/Exercises/gaming/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Accelerated-C-/home/cheick/src/Accelerated-C-/home/cheick/src/Accelerated-C-/home/cheick/src/Accelerated-C-/chapter1/Exercises/taylor series/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Accelerated-C-/home/cheick/src/Accelerated-C-/home/cheick/src/Accelerated-C-/home/cheick/src/homeworkMath4997/.idea/homeworkMath4997.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/homeworkMath4997.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Accelerated-C-/home/cheick/src/Accelerated-C-/home/cheick/src/Accelerated-C-/home/cheick/src/Accelerated-C-/chapter1/.idea/chapter1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Accelerated-C-/home/cheick/src/Accelerated-C-/home/cheick/src/Accelerated-C-/home/cheick/src/Accelerated-C-/chapter1/Exercises/Exercis2/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Accelerated-C-/home/cheick/src/Accelerated-C-/home/cheick/src/Accelerated-C-/home/cheick/src/Accelerated-C-/chapter1/Exercises/Exercise1/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Accelerated-C-/home/cheick/src/Accelerated-C-/home/cheick/src/Accelerated-C-/home/cheick/src/Accelerated-C-/chapter1/Exercises/Exercise1/.idea/Exercise1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Accelerated-C-/home/cheick/src/Accelerated-C-/home/cheick/src/Accelerated-C-/untitled/.idea/untitled.iml" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Q6rZngQBNBa2OfMAugPa0rL0x9" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../framing/main.cpp" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="776ea85c-5dd5-43ff-9654-a4a12b509dcc" name="Default Changelist" comment="" />
+      <created>1567101944210</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1567101944210</updated>
+      <workItem from="1567101945684" duration="15917000" />
+      <workItem from="1567194748982" duration="4296000" />
+      <workItem from="1567199176591" duration="46000" />
+      <workItem from="1567199785982" duration="274000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/gaming.dir/main.cpp.o  -o gaming 
